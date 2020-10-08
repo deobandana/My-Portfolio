@@ -6,6 +6,15 @@
   color:RED;
    font-size: 30px;
 }
+
+.motu {
+ background-color: white;
+  padding: 2px;
+  margin-top: 2px;
+  text-align: left;
+  color:blue;
+   font-size: 20px;
+}
 .maintitle {
  background-color: white;
   padding: 2px;
